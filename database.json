@@ -1,0 +1,51 @@
+{
+    "candy": [
+        {
+            "id": 1,
+            "name": "candy corn",
+            "locationId": 2
+        },
+        {
+            "id": 2,
+            "name": "starbursts",
+            "locationId": 4
+        },
+        {
+            "id": 3,
+            "name": "butterscotch",
+            "locationId": 3
+        },
+        {
+            "id": 4,
+            "name": "peppermint",
+            "locationId": 1
+        }
+    ],
+    "locations": [
+        {
+            "id": 1,
+            "address": "8422 Johnson Pike",
+            "square_footage": 5020,
+            "handicap_accessible": false
+        },
+        {
+            "id": 2,
+            "address": "5182 Chris Lake",
+            "square_footage": 1174,
+            "handicap_accessible": false
+        },
+        {
+            "id": 3,
+            "address": "32414 Alejandra Cape",
+            "square_footage": 57031,
+            "handicap_accessible": false
+        },
+        {
+            "id": 4,
+            "address": "229 Smith Keys",
+            "square_footage": 90546,
+            "handicap_accessible": true
+        }
+        
+    ]
+}
