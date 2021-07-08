@@ -1,26 +1,4 @@
 {
-    "candy": [
-        {
-            "id": 1,
-            "name": "candy corn",
-            "locationId": 2
-        },
-        {
-            "id": 2,
-            "name": "starbursts",
-            "locationId": 4
-        },
-        {
-            "id": 3,
-            "name": "butterscotch",
-            "locationId": 3
-        },
-        {
-            "id": 4,
-            "name": "peppermint",
-            "locationId": 1
-        }
-    ],
     "locations": [
         {
             "id": 1,
@@ -46,6 +24,27 @@
             "square_footage": 90546,
             "handicap_accessible": true
         }
-        
+    ],
+    "candys": [
+        {
+            "id": 1,
+            "name": "candy corn",
+            "locationId": 2
+        },
+        {
+            "id": 2,
+            "name": "starbursts",
+            "locationId": 4
+        },
+        {
+            "id": 3,
+            "name": "butterscotch",
+            "locationId": 3
+        },
+        {
+            "id": 4,
+            "name": "peppermint",
+            "locationId": 1
+        }
     ]
 }
